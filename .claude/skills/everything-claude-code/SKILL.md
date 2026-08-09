@@ -1,6 +1,6 @@
 ---
-name: everything-claude-code-conventions
-description: Development conventions and patterns for everything-claude-code. JavaScript project with conventional commits.
+name: everything-claude-code
+description: Use when contributing to the Everything Claude Code repository and applying its JavaScript structure, generated conventions, tests, and conventional-commit workflow.
 ---
 
 # Everything Claude Code Conventions
